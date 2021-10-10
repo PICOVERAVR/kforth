@@ -1,0 +1,10 @@
+This code was translated to x86_64 by Kyle W. Neil, and is built on Jonesforth by Richard W. M. Jones.
+
+To be nice and fair to everyone, here is the license put in the original Jonesforth forth interpreter:
+
+	I, the copyright holder of this work, hereby release it into the public domain. This applies worldwide.
+	
+	In case this is not legally possible, I grant any entity the right to use this work for any purpose,
+	without any conditions, unless such conditions are required by law.
+
+A copy of the version of jonesforth that I translated is also included.
